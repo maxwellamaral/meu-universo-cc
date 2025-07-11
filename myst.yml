@@ -2,10 +2,11 @@
 version: 1
 project:
   id: 618ae5f0-1a79-49e7-930d-714982abb8b2
-  # title:
+  title: Meu Universo CC
   # description:
   # keywords: []
-  # authors: []
+  authors:
+    - name: Maxwell Anderson Ielpo do Amaral
   github: https://github.com/maxwellamaral/meu-universo-cc
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
